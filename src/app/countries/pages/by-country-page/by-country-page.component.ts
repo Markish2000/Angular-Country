@@ -2,7 +2,7 @@
 import { Component } from '@angular/core';
 
 // Services
-import { CountriesService } from '../../services/country.service';
+import { CountriesService } from '../../services/countries.service';
 
 // Interfaces
 import { Country } from '../../interfaces/country';
